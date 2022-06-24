@@ -1,4 +1,7 @@
-# Largest-of-three-numbers
+### EX NO : 01
+### DATE  : 30.03.2022
+# <p align="center"> Largest-of-three-numbers </p>
+
 ## Aim:
 To write a C# program to find the largest of three numbers
 
@@ -15,6 +18,8 @@ Use elif condition to check whether num2 is largest than num1 and num3
 Use else condition to display that third variable is largest among all the variables
 ### Step6:
 stop
+
+<br/><br/><br/><br/><br/><br/><br/><br/>
 
 ## Program:
 ```c#
@@ -42,7 +47,8 @@ namespace vijay
 ```
 ## Output:
 
-![Screenshot (41)](https://user-images.githubusercontent.com/75235488/163755288-eef373c7-f044-4822-a63f-cb8704b26e10.png)
+![image](https://user-images.githubusercontent.com/75235488/175523431-25db7022-0f9f-401a-b1aa-0dff17150be6.png)
+
 
 ## Result:
 Thus the C# program to find the largest of three numbers is executed successfully
